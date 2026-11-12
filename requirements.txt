@@ -1,0 +1,2 @@
+# 本服务仅使用 Python 标准库，无第三方运行时依赖。
+# 测试使用标准库 unittest；如用 pytest 运行测试，需本地已安装 pytest。
